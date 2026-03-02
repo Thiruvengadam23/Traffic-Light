@@ -1,0 +1,45 @@
+.Light-button{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-around;
+}
+
+.traffic_button{
+    height: 40px;
+    width: 120px;
+}
+
+.traffic_light{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-around;
+    border-width: 1px;
+    
+}
+
+.light{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(30, 90, 144);
+    border-radius: 25px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
